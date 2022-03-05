@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "fragmented_aleph:blocks/predatoryplant",
+    "particle": "fragmented_aleph:blocks/predatoryplant"
+  }
+}

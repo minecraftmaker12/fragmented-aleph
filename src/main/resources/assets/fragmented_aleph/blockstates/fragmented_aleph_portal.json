@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "fragmented_aleph:block/fragmented_aleph_portal_ew"
+    },
+    "axis=x": {
+      "model": "fragmented_aleph:block/fragmented_aleph_portal_ns"
+    }
+  }
+}

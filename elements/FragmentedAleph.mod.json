@@ -1,0 +1,51 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:CosmicMeadow"
+      },
+      {
+        "value": "CUSTOM:LivingJungle"
+      },
+      {
+        "value": "CUSTOM:BurntBadlamds"
+      },
+      {
+        "value": "CUSTOM:ShardGrotto"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.QUARTZ_BLOCK#3"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Aleph Bubble",
+    "igniterTab": {
+      "value": "CUSTOM:FragmensOfAleph"
+    },
+    "texture": "igniter",
+    "portalTexture": "portal",
+    "enablePortal": true
+  }
+}

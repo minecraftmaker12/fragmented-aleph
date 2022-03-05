@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fragmented_aleph:blocks/amber_block",
+    "up": "fragmented_aleph:blocks/amber_block",
+    "north": "fragmented_aleph:blocks/amber_block",
+    "east": "fragmented_aleph:blocks/amber_block",
+    "south": "fragmented_aleph:blocks/amber_block",
+    "west": "fragmented_aleph:blocks/amber_block",
+    "particle": "fragmented_aleph:blocks/amber_block"
+  }
+}

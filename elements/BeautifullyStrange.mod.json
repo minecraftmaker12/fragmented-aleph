@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc",
+    "name": "Beautifully Strange",
+    "description": "Composed by Sculk Studios",
+    "creativeTab": {
+      "value": "CUSTOM:FragmensOfAleph"
+    },
+    "music": {
+      "value": "CUSTOM:beautifullystrange"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

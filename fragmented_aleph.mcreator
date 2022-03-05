@@ -1,0 +1,231 @@
+{
+  "mod_elements": [
+    {
+      "name": "CosmicMeadow",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cosmic_meadow"
+    },
+    {
+      "name": "NovaFlower",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nova_flower"
+    },
+    {
+      "name": "FragmentedAleph",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fragmented_aleph",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "LivingPlant",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "living_plant"
+    },
+    {
+      "name": "CarnivorousPlant",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carnivorous_plant"
+    },
+    {
+      "name": "LivingJungle",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "living_jungle"
+    },
+    {
+      "name": "CarnivorousPlantMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carnivorous_plant_mobplayer_collides_with_plant",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BurntBushMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burnt_bush_mobplayer_collides_with_plant",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BurntBush",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burnt_bush"
+    },
+    {
+      "name": "Dust",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dust"
+    },
+    {
+      "name": "CondensedDust",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_dust"
+    },
+    {
+      "name": "BurntBadlamds",
+      "type": "biome",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burnt_badlamds"
+    },
+    {
+      "name": "AmberBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amber_block"
+    },
+    {
+      "name": "AmberSpike",
+      "type": "structure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amber_spike"
+    },
+    {
+      "name": "ShardGrotto",
+      "type": "biome",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shard_grotto"
+    },
+    {
+      "name": "BeautifullyStrange",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beautifully_strange"
+    },
+    {
+      "name": "FragmensOfAleph",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fragmens_of_aleph"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "beautifullystrange",
+      "files": [
+        "beautifully_strange"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "block.fragmented_aleph.living_plant": "Living Plant",
+      "biome.fragmented_aleph.shard_grotto": "Shard Grotto",
+      "block.fragmented_aleph.dust": "Dust",
+      "block.fragmented_aleph.burnt_bush": "Burnt Bush",
+      "block.fragmented_aleph.carnivorous_plant": "Predatory Plant",
+      "biome.fragmented_aleph.burnt_badlamds": "Burnt Badlands",
+      "itemGroup.tabfragmens_of_aleph": "Fragmens Of Aleph",
+      "biome.fragmented_aleph.cosmic_meadow": "Cosmic Meadows",
+      "block.fragmented_aleph.condensed_dust": "Condensed Dust",
+      "item.fragmented_aleph.beautifully_strange": "Beautifully Strange",
+      "block.fragmented_aleph.amber_block": "Amber Block",
+      "subtitles.beautifullystrange": "",
+      "item.fragmented_aleph.fragmented_aleph": "Aleph Bubble",
+      "item.fragmented_aleph.beautifully_strange.desc": "Composed by Sculk Studios",
+      "block.fragmented_aleph.nova_flower": "Nova Flower",
+      "biome.fragmented_aleph.living_jungle": "Living Landmass"
+    },
+    "en_us": {
+      "block.fragmented_aleph.living_plant": "Living Plant",
+      "biome.fragmented_aleph.shard_grotto": "Shard Grotto",
+      "block.fragmented_aleph.dust": "Dust",
+      "block.fragmented_aleph.burnt_bush": "Burnt Bush",
+      "block.fragmented_aleph.carnivorous_plant": "Predatory Plant",
+      "biome.fragmented_aleph.burnt_badlamds": "Burnt Badlands",
+      "itemGroup.tabfragmens_of_aleph": "Fragmens Of Aleph",
+      "biome.fragmented_aleph.cosmic_meadow": "Cosmic Meadows",
+      "block.fragmented_aleph.condensed_dust": "Condensed Dust",
+      "item.fragmented_aleph.beautifully_strange": "Beautifully Strange",
+      "block.fragmented_aleph.amber_block": "Amber Block",
+      "subtitles.beautifullystrange": "",
+      "item.fragmented_aleph.fragmented_aleph": "Aleph Bubble",
+      "item.fragmented_aleph.beautifully_strange.desc": "Composed by Sculk Studios",
+      "block.fragmented_aleph.nova_flower": "Nova Flower",
+      "biome.fragmented_aleph.living_jungle": "Living Landmass"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fragmented_aleph",
+    "modName": "Fragmented Aleph",
+    "version": "1.0.0",
+    "author": "dooli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.fragmentedaleph",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

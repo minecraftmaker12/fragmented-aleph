@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fragmented_aleph:block/amber_block"
+    }
+  }
+}

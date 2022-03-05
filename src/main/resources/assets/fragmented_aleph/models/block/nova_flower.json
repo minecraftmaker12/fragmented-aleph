@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "fragmented_aleph:blocks/ee",
+    "particle": "fragmented_aleph:blocks/ee"
+  }
+}

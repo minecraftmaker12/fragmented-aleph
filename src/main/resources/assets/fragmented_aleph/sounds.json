@@ -1,0 +1,11 @@
+{
+  "beautifullystrange": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "fragmented_aleph:beautifully_strange",
+        "stream": false
+      }
+    ]
+  }
+}

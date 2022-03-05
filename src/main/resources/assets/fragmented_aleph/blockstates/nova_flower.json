@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "fragmented_aleph:block/nova_flower"
+    },
+    "half=lower": {
+      "model": "fragmented_aleph:block/nova_flower_bottom"
+    }
+  }
+}

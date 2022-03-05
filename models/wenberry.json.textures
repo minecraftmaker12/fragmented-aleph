@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "texturewenfruit5",
+        "12": "texturewenfruit6",
+        "13": "texturewenfruit5",
+        "14": "texturewenfruit6",
+        "15": "texturewenfruit4",
+        "missing": "texturewenruit",
+        "8": "texturewenfruit3",
+        "9": "texturewenfruit7",
+        "10": "texturewenfruit5"
+      },
+      "name": "default"
+    }
+  }
+}

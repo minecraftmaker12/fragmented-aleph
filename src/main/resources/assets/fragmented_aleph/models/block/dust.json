@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fragmented_aleph:blocks/sand_new_texture",
+    "up": "fragmented_aleph:blocks/sand_new_texture",
+    "north": "fragmented_aleph:blocks/sand_new_texture",
+    "east": "fragmented_aleph:blocks/sand_new_texture",
+    "south": "fragmented_aleph:blocks/sand_new_texture",
+    "west": "fragmented_aleph:blocks/sand_new_texture",
+    "particle": "fragmented_aleph:blocks/sand_new_texture"
+  }
+}
