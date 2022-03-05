@@ -154,6 +154,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "fragmens_of_aleph"
+    },
+    {
+      "name": "WenberryFoodEaten",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wenberry_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wenberry",
+      "type": "food",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wenberry"
     }
   ],
   "variable_elements": [],
@@ -180,6 +204,7 @@
       "block.fragmented_aleph.condensed_dust": "?????????? ???????? sculk",
       "item.fragmented_aleph.beautifully_strange": "Beautifully Strange",
       "block.fragmented_aleph.amber_block": "???????? ????",
+      "item.fragmented_aleph.wenberry": "Wenberry",
       "subtitles.beautifullystrange": "??????? ???????",
       "item.fragmented_aleph.fragmented_aleph": "????????????????? ????",
       "item.fragmented_aleph.beautifully_strange.desc": "?????????? ???????? sculk",
@@ -198,6 +223,7 @@
       "block.fragmented_aleph.condensed_dust": "Condensed Dust",
       "item.fragmented_aleph.beautifully_strange": "Beautifully Strange",
       "block.fragmented_aleph.amber_block": "Amber Block",
+      "item.fragmented_aleph.wenberry": "Wenberry",
       "subtitles.beautifullystrange": "Beatifully Strange",
       "item.fragmented_aleph.fragmented_aleph": "Aleph Bubble",
       "item.fragmented_aleph.beautifully_strange.desc": "Composed by Sculk Studios",
